@@ -4,7 +4,8 @@ title: Nodi
 
 # Nodi (FUORI DATA)
 
-:::tip Consiglio
+:::tip 
+Avviso
 Questa pagina del documento non è aggiornata temporaneamente. Il contenuto non è aggiornato.
 :::
 
